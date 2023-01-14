@@ -1,16 +1,18 @@
-### Hi there 👋
+### About Me
+- 📫 I graduated from <b>Sungkyunkwan University</b>
+- 🔭 I majored in <b>Mathematics</b> and <b>Computer Science</b>
+- 🌱 I am currently studying on <b>SSAFY (Samsung SW Academy For Youth)</b>
 
-<!--
-**borussen/borussen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### History
+- <b>Sungkyunkwan University</b> (2016.03 ~ 2023.02)
+- <b>Samsung SW Academy for Youth</b> (2023.01 ~ )
 
-Here are some ideas to get you started:
+### Objective
+- Improving <b>algorithm</b> skill
+- Getting used to the <b>SPRING</b> framework
+- Aiming to be a <b>backend developer</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=borussen&show_icons=true&theme=tokyonight)
+
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borussen&layout=compact&theme=tokyonight)-->
