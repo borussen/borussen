@@ -13,6 +13,7 @@
 - Aiming to be a <b>backend developer</b>
 
 #
-<img height="180em" src="https://github-readme-stats-zeta-flame.vercel.app/api/top-langs/?username=borussen&layout=compact&hide=jupyter%20notebook" />
-
+<p align="center">
+<img height="200em" src="https://github-readme-stats-zeta-flame.vercel.app/api/top-langs/?username=borussen&layout=compact&hide=jupyter%20notebook" />
+</p>
 
