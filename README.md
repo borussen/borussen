@@ -13,6 +13,6 @@
 - Aiming to be a <b>backend developer</b>
 
 #
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borussen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img height="180em" src="https://github-readme-stats-zeta-flame.vercel.app/api/top-langs/?username=borussen&layout=compact&hide=jupyter%20notebook" />
 
 
