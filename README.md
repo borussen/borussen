@@ -14,6 +14,6 @@
 
 #
 <p align="center">
-<img height="200em" src="https://github-readme-stats-zeta-flame.vercel.app/api/top-langs/?username=borussen&layout=compact&hide=jupyter%20notebook" />
+<img height="200em" src="https://github-readme-stats-zeta-flame.vercel.app/api/top-langs/?username=borussen&layout=compact&hide=jupyter%20notebook&langs_count=8" />
 </p>
 
