@@ -2,10 +2,12 @@
 - 📫 I graduated from <b>Sungkyunkwan University</b>
 - 🔭 I majored in <b>Mathematics</b> and <b>Computer Science</b>
 - 🌱 I studyed at <b>SSAFY (Samsung SW Academy For Youth)</b>
+- 💫 I work for <b>Shinhan Bank (Business Development Dept-Forex)</b>
 
 ### History
 - <b>Sungkyunkwan University</b> (2016.03 ~ 2023.02)
 - <b>Samsung SW Academy for Youth</b> (2023.01 ~ 2023.06)
+- <b>Shinhan Bank</b> (2023.08 ~ )
 
 ### Objective
 - Improving <b>algorithm</b> skill
