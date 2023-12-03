@@ -2,7 +2,7 @@
 - 📫 I graduated from <b>Sungkyunkwan University</b>
 - 🔭 I majored in <b>Mathematics</b> and <b>Computer Science</b>
 - 🌱 I studyed at <b>SSAFY (Samsung SW Academy For Youth)</b>
-- 💫 I work for <b>Shinhan Bank (Business Development Dept-Forex)</b>
+- 💫 I work for <b>Shinhan Bank (Business Development Dept. Forex)</b>
 
 ### History
 - <b>Sungkyunkwan University</b> (2016.03 ~ 2023.02)
@@ -10,9 +10,9 @@
 - <b>Shinhan Bank</b> (2023.08 ~ )
 
 ### Objective
-- Improving <b>algorithm</b> skill
-- Getting used to the <b>SPRING</b> framework
-- Aiming to be a <b>backend developer</b>
+- Aiming to be a good <b>backend developer</b>
+- Increase understanding of <b>Forex business</b>
+
 
 #
 <p align="center">
